@@ -3,9 +3,9 @@ import AlertForm from "./AlertForm/AlertForm"
 
 function App() {
 
-  return (
-      <AlertForm/>
-  )
+    return (
+        <AlertForm />
+    )
 }
 
 export default App
