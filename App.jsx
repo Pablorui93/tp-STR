@@ -1,10 +1,12 @@
-import AlertForm from "./AlertForm/AlertForm"
+import AlertForm from "./src/AlertForm/AlertForm.jsx"
 
 
 function App() {
 
     return (
-        <AlertForm />
+        <div>
+            <AlertForm />
+        </div>
     )
 }
 
